@@ -61,8 +61,35 @@ The full report can be found [here](https://app.powerbi.com/view?r=eyJrIjoiN2YzN
 ### Overview
 ![](Overview.png)
 
+This page is a summary of the main drivers of customer conversion on the website, leading to revenue. It will give a quick, high-level overview and enable stakeholders and management know what is working and what needs to be improved.
+- For the period in consideration (February to December, with April not available in the data), there were 12,330 visitors to the website.
+- Out of these visitors, 1,908 were converted i.e bought a product, leading to a conversion rate of 15.47%. The average time spent by visitors on the website is approximately 22 minutes.
+- We compared our conversion rate to the industry standard (3%), meaning that the Company is doing 12.47% better than the average standard in the indusry.
+- We see that customeers who are returning are responsible for 77% of our conversions, suggesting effective retention strategies.
+- Traffic Type 2 brings in the most converted customers, making it effective in attracting valuable traffic.
+- February is our worst month, with conversions inceasing until May and then decreasing the next month. There's a steady increase until October when there is a huge bump to November, making it our best conversion month.
+- Visitors spending between 20 - 30 mins or below on the website are most likely to convert, indicating optimal engagement time. These are represented by Groups 1 to 3.
 
 ### Analysis
 ![](Analysis.png)
 
+Here, the focus is on the revenue drivers and customer behaviour.
+- Investigating the technical aspects thst drive our conversions, we see that Browser 2 and Operating System 2 lead in terms of converted customers, indicating technical preferences of our high-value users.
+- Special Day 0, particularly on Week days show significantly higher conversion rates.
+- Returning Visitors spent nore time on Product Related pages, which may account for some of the conversions on the website.
+- Administrative Page is our most valuable page, with the lowest exit rate and highest page values.
+- On the average, February has the highest bounce rate, explaining why we have the lowest conversion rates in this month.
+
 ### Recommendations
+
+- Implement A/B testing on all pages to improve overall conversion rate.
+- Optimize the user journey to encourage the user to spend about between 1 and 20 minutes on the website, as this correlates with higher conversion rates.
+- Allocate more resources to Traffic Type 2 to capitalize on it's effectiveness in bringing converted customers.
+- Develop targeted campaigns for Returning Customers to further enhance the performance of this high-converting segment.
+- Prioritize website optimization of Browser 2 and Operating System 2 to address the preference of high-converting customers.
+- Conduct usability testing on less performing Browsers and Operating Systems to identify and address any issues.
+- Align marketing efforts and promotions with high-converting periods, particularly Special Day 0 Weekdays.
+- Develop strategies to boost conversions on all other low-performing periods.
+- Develop personalized user experiences based on Visitor Type, Traffic source, and Browsing behavior to enhance user engagement and conversion rates.
+- Set up alerts for significant deviations in conversion rates or traffic patterns to enable quick responses to changes in user behavior or technical problems.
+
