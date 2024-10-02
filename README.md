@@ -64,3 +64,5 @@ The full report can be found [here]()
 
 ### Analysis
 ![](Analysis.png)
+
+### Recommendations
